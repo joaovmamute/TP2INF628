@@ -1,5 +1,5 @@
 """
-Codigo Trabalho Pratico 1 de INF 628
+Codigo Trabalho Pratico 2 de INF 628
 
 Joao Vitor Rodrigues de Vasconcelos
 75772
